@@ -552,7 +552,7 @@ h5, h6          { font-weight: bolder }
     header{
         display: block;
         width: 100%;
-        min-height: 100px;
+        min-height: 150px;
         padding: 0;
         position: relative;
     }
@@ -569,7 +569,7 @@ h5, h6          { font-weight: bolder }
     header #menu_icon,
     header .close_menu{
         float: right;
-        margin: 30px 30px 0 0;
+        margin: 60px 20px 0 0;
     }
     header nav ul{
         list-style: none;
@@ -611,6 +611,10 @@ h5, h6          { font-weight: bolder }
     }
     #map{
         margin: 0!important;
+    }
+    
+    .media {
+      padding-bottom:10px;
     }
 }
 
