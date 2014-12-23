@@ -1,4 +1,4 @@
-username.github.io
+alexjpong.github.io
 ==================
 
-Personal Website
+Alex Pong's Photography portfolio.
