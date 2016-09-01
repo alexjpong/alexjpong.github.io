@@ -432,9 +432,14 @@ h5, h6          { font-weight: bolder }
 .content img {
     display: block;
     margin: 0 auto;
-    padding-bottom: 30px;
+    margin-bottom: 30px;
 }
 
+.content .border {
+    border:2px;
+    border-style: solid;
+    border-color: #ededed;
+}
 
 
 
