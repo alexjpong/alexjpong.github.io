@@ -1,4 +1,3 @@
-alexjpong.github.io
+Alex Pong
 ==================
-
-Alex Pong's Photography portfolio.
+ - cargocollective.com/alexjpong
