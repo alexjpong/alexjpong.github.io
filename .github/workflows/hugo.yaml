@@ -33,7 +33,7 @@ jobs:
     runs-on: ubuntu-latest
     defaults:
       run:
-        working-directory: ./alex_blog
+        working-directory: alex_blog
     env:
       HUGO_VERSION: 0.111.3
     steps:
