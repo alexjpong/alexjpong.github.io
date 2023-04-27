@@ -1,0 +1,17 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Alex Pong'
+theme = "paper"
+
+[params]
+  color = 'linen'
+  instagram = 'alexjpong'
+
+# ------------------------------
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
